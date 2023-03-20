@@ -1,1 +1,1 @@
-# Hugo Snackbar Module
+Moved to https://github.com/hugomods/snackbar.
